@@ -6,7 +6,3 @@ eureka:
     register-with-eureka: true
   instance:
     prefer-ip-address: true
-spring: 
-  cloud: 
-    compatibility-verifier: 
-      enabled: false
